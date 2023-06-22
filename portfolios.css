@@ -1,0 +1,131 @@
+   /* Styles for the navigation bar */
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+nav li {
+  display: inline;
+  margin-right: 10px;
+}
+nav a {
+  text-decoration: none;
+  color:#a3a395;
+  text-align: center;
+  font-size: 25px;
+}
+
+/* Styles for the sections */
+section {
+  padding: 20px;
+  margin-bottom:0px;
+}
+.hidden {
+  display: none;
+}
+
+
+.hom {
+     color:#a3a395;
+  text-align: center;
+  font-size: 25px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  
+}
+
+/* Add styling for the header section */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+#home {
+  font-size: 40px;
+}
+
+#about {
+  color:#2f0432;  
+  text-align: center;
+  
+  font-size: 25px;
+
+}
+
+#projects {
+ font-size: 25px;
+ color:#2b96ff;
+ 
+}
+#contact {
+ text-align: center;
+  font-size: 25px;
+  
+ 
+}
+#photograph{
+    font-size: 25px;
+ color:#2b96ff;
+ 
+}
+footer {
+  background-color: #333;
+  font-size: 25px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 0px;
+  text-align: center;
+  font-size: 25px;
+  color:#ffa815;
+  
+}
+.home-s a{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width:40px;
+    height:40px;
+    background: transparent;
+    border:2px solid #0ef;
+    border-radius: 50%;
+    font-size:20px;
+    color:#0ef;
+    text-decoration: none;
+    margin:30px 20px 10px 0;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
